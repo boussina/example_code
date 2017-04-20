@@ -1,0 +1,2 @@
+1.  use codevision to update the program
+2.  download the binary code into the atmel
